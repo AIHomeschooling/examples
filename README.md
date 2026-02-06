@@ -1,5 +1,5 @@
 # examples
-Examples and resources mentioned in the Substack posts (https://aihomeschooling.substack.com/).
+Examples and resources mentioned in [AI Homeschooling](https://aihomeschooling.substack.com/) Substack posts.
 
-# License
-This work is licensed under CC BY-NC 4.0. Link to the license: https://creativecommons.org/licenses/by-nc/4.0/
+## License
+Licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) - free to use for non-commercial purposes with attribution.
